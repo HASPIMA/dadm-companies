@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Empresas de software</string>
+
+    <string name="title_new_company">Nueva empresa</string>
+    <string name="title_edit_company">Editar empresa</string>
+
+    <string name="field_name">Nombre de la empresa</string>
+    <string name="field_website">URL de la página web</string>
+    <string name="field_phone">Teléfono de contacto</string>
+    <string name="field_email">Email de contacto</string>
+    <string name="field_products_and_services">Productos y servicios</string>
+    <string name="field_classification">Clasificación</string>
+    <string name="not_provided">No registrado</string>
+
+    <string name="classification_consulting">Consultoría</string>
+    <string name="classification_custom_development">Desarrollo a la medida</string>
+    <string name="classification_software_factory">Fábrica de software</string>
+
+    <string name="search_by_name">Buscar por nombre</string>
+    <string name="empty_no_companies">Aún no hay empresas. Toca + para agregar una.</string>
+    <string name="empty_no_matches">Ninguna empresa coincide con los filtros.</string>
+
+    <string name="action_add_company">Agregar empresa</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Eliminar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_back">Atrás</string>
+    <string name="action_clear">Limpiar</string>
+    <string name="action_clear_filters">Limpiar filtros</string>
+
+    <string name="delete_dialog_title">¿Eliminar empresa?</string>
+    <string name="delete_dialog_message">\"%1$s\" se eliminará permanentemente del directorio.</string>
+
+    <string name="error_name_required">El nombre es obligatorio</string>
+    <string name="error_invalid_url">URL inválida</string>
+    <string name="error_invalid_phone">Teléfono inválido</string>
+    <string name="error_invalid_email">Email inválido</string>
+    <string name="error_classification_required">Selecciona al menos una clasificación</string>
+
+    <string name="message_company_created">Empresa creada</string>
+    <string name="message_company_updated">Empresa actualizada</string>
+    <string name="message_company_deleted">Empresa eliminada</string>
+</resources>

@@ -1,3 +1,44 @@
 <resources>
     <string name="app_name">Software companies</string>
+
+    <string name="title_new_company">New company</string>
+    <string name="title_edit_company">Edit company</string>
+
+    <string name="field_name">Company name</string>
+    <string name="field_website">Website URL</string>
+    <string name="field_phone">Contact phone</string>
+    <string name="field_email">Contact email</string>
+    <string name="field_products_and_services">Products and services</string>
+    <string name="field_classification">Classification</string>
+    <string name="not_provided">Not provided</string>
+
+    <string name="classification_consulting">Consulting</string>
+    <string name="classification_custom_development">Custom development</string>
+    <string name="classification_software_factory">Software factory</string>
+
+    <string name="search_by_name">Search by name</string>
+    <string name="empty_no_companies">No companies yet. Tap + to add one.</string>
+    <string name="empty_no_matches">No companies match the filters.</string>
+
+    <string name="action_add_company">Add company</string>
+    <string name="action_save">Save</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_back">Back</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_clear_filters">Clear filters</string>
+
+    <string name="delete_dialog_title">Delete company?</string>
+    <string name="delete_dialog_message">\"%1$s\" will be permanently removed from the directory.</string>
+
+    <string name="error_name_required">Name is required</string>
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_invalid_phone">Invalid phone number</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_classification_required">Select at least one classification</string>
+
+    <string name="message_company_created">Company created</string>
+    <string name="message_company_updated">Company updated</string>
+    <string name="message_company_deleted">Company deleted</string>
 </resources>
